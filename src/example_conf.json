@@ -1,0 +1,26 @@
+{
+  "config": {
+    "send_hour": 0,
+    "send_minute": 4,
+    "timezone": "America/Detroit",
+    "channel_name": "bday-bot-tests",
+    "client_token": "get-secret-from-slack"
+  },
+  "bdays": [
+    {
+      "name": "Sharif Anani",
+      "uid": "UGRNPCMF0",
+      "date": "07/29"
+    },
+    {
+      "name": "Basel Anani",
+      "uid": "U03RH6L5FLJ",
+      "date": "07/29"
+    },
+    {
+      "name": "Rashyll Leonard",
+      "uid": "UGPNJ6ZCH",
+      "date": "07/29"
+    }
+  ]
+}
